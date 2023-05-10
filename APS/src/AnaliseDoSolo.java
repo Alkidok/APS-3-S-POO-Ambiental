@@ -10,7 +10,6 @@ public class AnaliseDoSolo {
     private String materiaOrganicaSolo;
 
     
-
     public void setPh(String ph) {
         this.phSolo = ph;
     }
