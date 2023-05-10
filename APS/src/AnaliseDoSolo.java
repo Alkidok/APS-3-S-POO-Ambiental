@@ -96,7 +96,6 @@ public class AnaliseDoSolo {
         if (Double.parseDouble(this.materiaOrganicaSolo) < 1) {
             resultado.append("- O teor de matéria orgânica no solo está abaixo do recomendado, correção com adição de matéria orgânica.\n");
         }
-        resultado.append("\n");
         return resultado.toString();
     }
 }
