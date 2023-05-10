@@ -37,7 +37,6 @@ public class Main {
             analiseSolo.setMateriaOrganica(materiaOrganica);
 
             String resultado = analiseSolo.analisarSolo();
-
             System.out.println(resultado);
         }
     }
